@@ -3,7 +3,9 @@
 Requirements:
 Python 7.0 or later
 
-After having installed Python, install the requirements file by writing the following command in the windows command line:
+After having installed Python, do the following:
+- Open the command prompt in the folder containing the program.
+- Install the requirements file by writing the following command in the windows command promt:
 pip install -r requirements.txt
 
 How to run the program:
