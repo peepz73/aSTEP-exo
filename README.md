@@ -1,7 +1,7 @@
 # aSTEP-exo
 
 Requirements:
-Python 7.0 or later
+Python 3.7 or later
 
 After having installed Python, do the following:
 - Open the command prompt in the folder containing the program.
